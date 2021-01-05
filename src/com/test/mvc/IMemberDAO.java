@@ -14,6 +14,7 @@ import java.util.ArrayList;
 
 public interface IMemberDAO
 {
+	//깃테스트를위한주석추가
 	// 회원 데이터 추가 메소드 선언
 	public int add(MemberDTO member) throws SQLException;
 	
